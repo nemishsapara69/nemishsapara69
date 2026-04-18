@@ -1,4 +1,4 @@
-# Hey, I'm Nemish 👋
+# Hey, I'm Nemish Sapara👋
 
 I'm an AI/ML engineering student from Gujarat, India — focused on building real-world applications using LLMs, RAG pipelines, and full-stack tools. I enjoy turning research ideas into working products.
 
