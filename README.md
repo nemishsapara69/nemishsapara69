@@ -37,14 +37,6 @@ Docker · AWS · Postman · Figma · Git
 
 ---
 
-### GitHub Stats
 
-![Nemish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nemishsapara69&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nemishsapara69&layout=compact&hide_border=true&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nemishsapara69&hide_border=true)
-
----
 
 *I code in Python but think in Gujarati ગુજરાતી 🇮🇳*
